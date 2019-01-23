@@ -1,4 +1,4 @@
-package doublepointer;
+package doublePointer;
 
 /**
  * 680. Valid Palindrome II

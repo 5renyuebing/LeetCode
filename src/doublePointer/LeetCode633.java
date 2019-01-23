@@ -1,4 +1,4 @@
-package doublepointer;
+package doublePointer;
 
 /**
  * 633. Sum of Square Numbers

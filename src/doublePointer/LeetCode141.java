@@ -1,4 +1,4 @@
-package doublepointer;
+package doublePointer;
 
 /**
  * 141. Linked List Cycle

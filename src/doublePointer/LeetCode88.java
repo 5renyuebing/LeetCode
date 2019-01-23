@@ -1,4 +1,4 @@
-package doublepointer;
+package doublePointer;
 
 /**
  * 88. Merge Sorted Array

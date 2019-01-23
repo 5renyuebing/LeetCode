@@ -1,4 +1,4 @@
-package doublepointer;
+package doublePointer;
 import java.util.ArrayList;
 import java.util.Arrays;
 

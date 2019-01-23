@@ -1,4 +1,4 @@
-package doublepointer;
+package doublePointer;
 
 /**
   167. Two Sum II - Input array is sorted
